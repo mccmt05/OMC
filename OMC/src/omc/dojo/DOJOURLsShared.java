@@ -4,6 +4,7 @@ public class DOJOURLsShared
 {
 	private static String[] urls = {
 		//Current sets on Clan
+		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=AKH&c=&m=pricelist&_=1492959525957", //Amonkhet
 		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=MM3&c=&m=pricelist&_=1490619206743", //Modern Masters 2017
 		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=AER&c=&m=pricelist&_=1485469931454", //Aether Revolt
 		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=KLD&c=&m=pricelist&_=1475759296347", //Kaladesh
