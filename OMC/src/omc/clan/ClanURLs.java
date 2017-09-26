@@ -4,6 +4,7 @@ public class ClanURLs
 {
 	private static String[] urls = {
 		"http://www.mtgoclanteam.com/Boosters", //Boosters
+		"http://www.mtgoclanteam.com/Cards?edition=XLN", //Ixalan
 		"http://www.mtgoclanteam.com/Cards?edition=HOU", //Hours of Devastation
 		"http://www.mtgoclanteam.com/Cards?edition=AKH", //Amonkhet
 		"http://www.mtgoclanteam.com/Cards?edition=MM3", //Modern Masters 2017
