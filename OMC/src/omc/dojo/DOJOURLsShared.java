@@ -4,6 +4,7 @@ public class DOJOURLsShared
 {
 	private static String[] urls = {
 		//Current sets on Clan
+		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=M19&c=&m=pricelist&_=1533250361668", //Core 2019
 		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=DAR&c=&m=pricelist&_=1525917355112", //Dominaria
 		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=A25&c=&m=pricelist&_=1525917355111", //Masters 25
 		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=RIX&c=&m=pricelist&_=1515792195152", //Rivals of Ixalan
