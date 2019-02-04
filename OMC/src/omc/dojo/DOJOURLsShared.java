@@ -4,6 +4,7 @@ public class DOJOURLsShared
 {
 	private static String[] urls = {
 		//Current sets on Clan
+		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=RNA&c=&m=pricelist&_=1549288904728", //Ravnica Allegiance
 		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=GRN&c=&m=pricelist&_=1538432340516", //Guilds of Ravnica
 		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=M19&c=&m=pricelist&_=1533250361668", //Core 2019
 		"https://www.dojotradebots.com/assets/pricedata.php?f=0&s=DAR&c=&m=pricelist&_=1525917355112", //Dominaria

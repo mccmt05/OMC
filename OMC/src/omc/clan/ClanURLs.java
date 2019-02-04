@@ -4,6 +4,7 @@ public class ClanURLs
 {
 	private static String[] urls = {
 		"http://www.mtgoclanteam.com/Boosters", //Boosters
+		"http://www.mtgoclanteam.com/Cards?edition=RNA", //Ravnica Allegiance
 		"http://www.mtgoclanteam.com/Cards?edition=GRN", //Guilds of Ravnica
 		"http://www.mtgoclanteam.com/Cards?edition=M19", //Core 2019
 		"http://www.mtgoclanteam.com/Cards?edition=DAR", //Dominaria
